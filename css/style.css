@@ -673,6 +673,10 @@ a {
   border-color: #4d5ae5;
 }
 
+.modal-input:focus + .modal-icon {
+  fill: #4d5ae5;
+}
+
 .modal-btn {
   justify-content: center;
   width: 169px;
